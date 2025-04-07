@@ -5,7 +5,8 @@
     box-sizing: border-box;
      
 }
-
+ 
+ 
 /* Encabezado */
 header {
     display: flex;
@@ -127,3 +128,36 @@ margin-left: 14px;
 gap: 32px;
 }
 
+/*comienzo segundo html*/
+
+.card {
+    background-color: white;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+.card img {
+    width: 300px;
+
+}
+.piefoto {
+    margin: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.precio {
+    color: #f85e9f;
+}
+.destino {
+    color: black;
+
+}
+.maintop {
+    display: flex;
+    align-items: center;  
+    margin-top: 50px;
+    flex-direction: column;
+}
