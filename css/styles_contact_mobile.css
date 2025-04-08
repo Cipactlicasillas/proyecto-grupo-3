@@ -61,7 +61,7 @@ header {
 
 /* este es el final de los estilos del header*/
 
-/* comienzo del main */
+/* comienzo del main página contact_mobile.html*/
 .frame {
     background-color: rgba(250, 205, 73, 0.08);
     width: 425px;
@@ -101,7 +101,67 @@ button {
     width: 424px;
     height: 392px;
 }
-/* fin del main */
+/* fin del main página contact_mobile.html */
+
+
+/*comienzo landing_mobile.html main Rosana*/
+     
+.card {
+    background-color: white;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+.card img {
+    width: 300px;
+
+}
+.piefoto {
+    margin: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.precio {
+    color: #f85e9f;
+}
+.destino {
+    color: black;
+
+}
+.maintop {
+    display: flex;
+    align-items: center;  
+    margin-top: 50px;
+    flex-direction: column;
+}
+
+/*Fin landing_mobile.html main Rosana*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* comienzo del footer */
 .arriba{
