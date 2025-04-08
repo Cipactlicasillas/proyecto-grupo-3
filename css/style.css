@@ -165,7 +165,6 @@ button {
   gap: 15px;
 }
 .ocean {
-  box-sizing: ;
   display: inline-block;
   flex-direction: column;
   justify-content: center;
